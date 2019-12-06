@@ -1,3 +1,4 @@
 Pierwsza linijka
 druga linijka
 trzecia linijka
+czwarta linijka - powodowanie b³êdu
